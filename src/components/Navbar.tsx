@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Navbar: React.FunctionComponent = () => (
     <nav>
-        <div className="nav-wrapper purple darken-2 px1">
+        <div className="nav-wrapper  blue darken-2 px1">
             <a href="/" className="brand-logo">
                 React + Typescript
             </a>
@@ -13,7 +13,6 @@ export const Navbar: React.FunctionComponent = () => (
                 <li>
                     <a href="/">Информация</a>
                 </li>
-
             </ul>
         </div>
     </nav>
