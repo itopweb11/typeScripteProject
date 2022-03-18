@@ -7,8 +7,8 @@ export const AboutPage: React.FC = () => {
         <>
            <h1>Страница информации</h1>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Non nostrum vero,repudiandae expedita beatae iure?
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.<br/>
+                Non nostrum vero,repudiandae expedita beatae iure?<br/>
                 Mollitia tempore quae qui voluptatum.
             </p>
             <button className='btn' onClick={() => history('/')}>
